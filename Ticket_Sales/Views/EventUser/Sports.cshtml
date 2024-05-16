@@ -1,0 +1,125 @@
+﻿@model IEnumerable<Ticket_Sales.Models.Event>
+@{
+    ViewData["Title"] = "Sports";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .site-menu-header {
+        background: url('https://salt.tikicdn.com/ts/ds/bb/34/4d/3d40a269fcba21739b081e88caa60837.jpeg');
+        position: center;
+    }
+</style>
+<header class="site-header site-menu-header">
+    @* <img src="~/layoutuser/images/header/banner.jpg" /> *@
+    @* <div class="container">
+    <div class="row">
+
+    <div class="col-lg-10 col-12 mx-auto">
+    <h1 class="text-white">Our Menus</h1>
+
+    <strong class="text-white">Perfect for all Breakfast, Lunch and Dinner</strong>
+    </div>
+
+    </div>
+    </div>
+    <div class="overlay"></div> *@
+
+</header>
+
+<section class="menu section-padding">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-6 align-content-center">
+                <h2 class="mb-lg-5 mb-4">Events</h2>
+            </div>
+
+            <div class="search-box col-6 align-content-center">
+                <form asp-controller="EventUser" asp-action="Sports" method="get">
+                    <span class="btn-group">
+                        <select asp-items="ViewBag.Locations" name="LocationId" class="form-control">
+                            <option disabled selected>---Select Location---</option>
+                        </select>
+                        <input type="text" placeholder="Nhập từ khoá..." name="searchingString" class="form-control" style="border-radius: 5px " />
+                        <input class="p-2-4 btn btn-sm btn-info" type="submit" style="border-radius: 15px; margin-left: 10px" value="Search" />
+                    </span>
+                </form>
+            </div>
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-6 col-12">
+                    <div class="menu-thumb">
+                        <img src="@item.ImageUrl" style="width:467.2px; height:467.2px" class="img-fluid menu-image" alt="">
+
+                        <div class="menu-info d-flex flex-wrap align-items-center">
+                            <h4 class="mb-0">@item.Event_Name</h4>
+
+                            <a asp-controller="Home" asp-action="Detail" asp-route-id="@item.Event_ID"><button class="button-50 ms-4" role="button">Detail</button></a>
+
+                            <div class="d-flex flex-wrap align-items-center w-100 mt-2">
+                                <p3 class="reviews-text mb-0 me-3"><img src="/layoutuser/images/header/calendar-icon.png" style="padding-right:5px" />@item.Date</p3>
+                                <br />
+                                <p3 class="reviews-text mb-0 me-3"><img src="/layoutuser/images/header/icon_location.png" style="padding-right:5px" />@item.location.City_Name</p3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+<style>
+
+    /* CSS */
+    .button-50 {
+        appearance: button;
+        background-color: #000;
+        background-image: none;
+        border: 1px solid #000;
+        border-radius: 4px;
+        box-shadow: #fff 4px 4px 0 0,#000 4px 4px 0 1px;
+        box-sizing: border-box;
+        color: #fff;
+        cursor: pointer;
+        display: inline-block;
+        font-family: ITCAvantGardeStd-Bk,Arial,sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        margin: 0 5px 10px 0;
+        overflow: visible;
+        padding: 12px 40px;
+        text-align: center;
+        text-transform: none;
+        touch-action: manipulation;
+        user-select: none;
+        -webkit-user-select: none;
+        vertical-align: middle;
+        white-space: nowrap;
+    }
+
+        .button-50:focus {
+            text-decoration: none;
+        }
+
+        .button-50:hover {
+            text-decoration: none;
+        }
+
+        .button-50:active {
+            box-shadow: rgba(0, 0, 0, .125) 0 3px 5px inset;
+            outline: 0;
+        }
+
+        .button-50:not([disabled]):active {
+            box-shadow: #fff 2px 2px 0 0, #000 2px 2px 0 1px;
+            transform: translate(2px, 2px);
+        }
+
+    /*Search box*/
+
+
+
+</style>
+

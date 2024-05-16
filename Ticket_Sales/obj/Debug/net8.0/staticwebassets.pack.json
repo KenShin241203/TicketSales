@@ -1,0 +1,1385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Ticket_Sales.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ticket_Sales.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\Book100.png",
+      "PackagePath": "staticwebassets\\Images\\Book100.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\Book101.png",
+      "PackagePath": "staticwebassets\\Images\\Book101.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\bong_bau_duc.jpg",
+      "PackagePath": "staticwebassets\\Images\\bong_bau_duc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\book13.png",
+      "PackagePath": "staticwebassets\\Images\\book13.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\book15.png",
+      "PackagePath": "staticwebassets\\Images\\book15.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\book16.png",
+      "PackagePath": "staticwebassets\\Images\\book16.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\bp_tour.jpg",
+      "PackagePath": "staticwebassets\\Images\\bp_tour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\jb_tour.jpg",
+      "PackagePath": "staticwebassets\\Images\\jb_tour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\liveshow3.jpg",
+      "PackagePath": "staticwebassets\\Images\\liveshow3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\liveshow_1.png",
+      "PackagePath": "staticwebassets\\Images\\liveshow_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\liveshow_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\liveshow_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\liveshow_5.jpg",
+      "PackagePath": "staticwebassets\\Images\\liveshow_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\pmq_show.jpg",
+      "PackagePath": "staticwebassets\\Images\\pmq_show.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\show_den.jpg",
+      "PackagePath": "staticwebassets\\Images\\show_den.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\Images\\skytour.jpg",
+      "PackagePath": "staticwebassets\\Images\\skytour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\admin\\css\\material-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\css\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\material-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\material-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\admin\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\admin\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\bg-pricing.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\bg-pricing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\bg-smart-home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\bg-smart-home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\drake.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\drake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\account_icon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\account_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\category_icon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\category_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\event_icon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\event_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\icon_location.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon_location.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\roles_icon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\roles_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\ticket_icon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\ticket_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\icons\\types_icon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\types_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\chat.png",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\chat.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\danger-chat-ill.png",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\danger-chat-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\dark-lock-ill.png",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\dark-lock-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\error-404.png",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\error-404.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\error-500.png",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\error-500.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\illustration-lock.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\illustration-lock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\illustration-reset.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\illustration-reset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\illustration-signin.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\illustration-signin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\illustration-signup.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\illustration-signup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\illustration-verification.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\illustration-verification.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\lock.png",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\pattern-tree.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\pattern-tree.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\ivana-squares.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\ivana-squares.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logo-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\logos\\gray-logos\\logo-coinbase.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\logos\\gray-logos\\logo-nasa.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\logos\\gray-logos\\logo-netflix.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\logos\\gray-logos\\logo-pinterest.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\logos\\gray-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\logos\\gray-logos\\logo-vodafone.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\marie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\meeting.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\meeting.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\office-dark.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\office-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-1-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-1-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-2-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-2-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-3-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-3-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-4-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-4-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-5-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-5-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-6-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-6-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-7-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-7-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\products\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\creative-tim.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\creative-tim.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\devto.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\devto.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\github.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\google-webdev.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\icon-bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-asana.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\team-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\tesla-model-s.png",
+      "PackagePath": "staticwebassets\\admin\\img\\tesla-model-s.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\material-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\material-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\material-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\admin\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\checkout\\css\\styles.css",
+      "PackagePath": "staticwebassets\\checkout\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\layoutuser\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\layoutuser\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\css\\tooplate-crispy-kitchen.css",
+      "PackagePath": "staticwebassets\\layoutuser\\css\\tooplate-crispy-kitchen.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\layoutuser\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\layoutuser\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\alex-haney-CAhjZmVk5H4-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\alex-haney-CAhjZmVk5H4-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\author\\alexander-hipp-iEEBWgY_6lA-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\author\\alexander-hipp-iEEBWgY_6lA-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\author\\shoeib-abolhassani-ojl7T2Ah93U-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\author\\shoeib-abolhassani-ojl7T2Ah93U-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\breakfast\\brett-jordan-8xt8-HIFqc8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\breakfast\\brett-jordan-8xt8-HIFqc8-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\breakfast\\louis-hansel-dphM2U1xq0U-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\breakfast\\louis-hansel-dphM2U1xq0U-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\breakfast\\lucas-swennen-1W_MyJSRLuQ-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\breakfast\\lucas-swennen-1W_MyJSRLuQ-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\charles-deluvio-FdDkfYFHqe4-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\charles-deluvio-FdDkfYFHqe4-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\daan-evers-tKN1WXrzQ3s-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\daan-evers-tKN1WXrzQ3s-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\dinner\\farhad-ibrahimzade-ZipYER3NLhY-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\dinner\\farhad-ibrahimzade-ZipYER3NLhY-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\dinner\\farhad-ibrahimzade-isHUj3N0194-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\dinner\\farhad-ibrahimzade-isHUj3N0194-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\dinner\\keriliwi-c3mFafsFz2w-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\dinner\\keriliwi-c3mFafsFz2w-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\banner.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\briana-tozour-V_Nkf1E-vYA-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\briana-tozour-V_Nkf1E-vYA-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\calendar-icon.png",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\calendar-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\icon_location1.png",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\icon_location1.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\icon_ticket.png",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\icon_ticket.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\luisa-brimble-aFzg83dvnAI-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\luisa-brimble-aFzg83dvnAI-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\priscilla-du-preez-W3SEyZODn8U-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\priscilla-du-preez-W3SEyZODn8U-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\rod-long-I79Pgmhmy5M-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\rod-long-I79Pgmhmy5M-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\ticket.png",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\ticket.png"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\lunch\\farhad-ibrahimzade-D5c9ZciQy_I-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\lunch\\farhad-ibrahimzade-D5c9ZciQy_I-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\lunch\\farhad-ibrahimzade-MGKqxm6u2bc-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\lunch\\farhad-ibrahimzade-MGKqxm6u2bc-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\lunch\\louis-hansel-cH5IPjaAYyo-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\lunch\\louis-hansel-cH5IPjaAYyo-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\lunch\\louis-hansel-rheOvfxOlOA-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\lunch\\louis-hansel-rheOvfxOlOA-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\news\\caroline-attwood-bpPTlXWTOvg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\news\\caroline-attwood-bpPTlXWTOvg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\news\\ella-olsson-mmnKI8kMxpc-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\news\\ella-olsson-mmnKI8kMxpc-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\news\\gilles-lambert-S_LhjpfIdm4-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\news\\gilles-lambert-S_LhjpfIdm4-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\news\\louis-hansel-GiIiRV0FjwU-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\news\\louis-hansel-GiIiRV0FjwU-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\news\\news-detail-header.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\news\\news-detail-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\news\\pablo-merchan-montes-Orz90t6o0e4-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\news\\pablo-merchan-montes-Orz90t6o0e4-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\news\\priscilla-du-preez-W3SEyZODn8U-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\news\\priscilla-du-preez-W3SEyZODn8U-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\news\\stefan-johnson-xIFbDeGcy44-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\news\\stefan-johnson-xIFbDeGcy44-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\sincerely-media-HoEYgBL_Gcs-unsplash-mobile.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\sincerely-media-HoEYgBL_Gcs-unsplash-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\sincerely-media-HoEYgBL_Gcs-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\sincerely-media-HoEYgBL_Gcs-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\slide\\ivan-torres-MQUqbmszGGM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\slide\\ivan-torres-MQUqbmszGGM-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\slide\\jason-leung-O67LZfeyYBk-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\slide\\jason-leung-O67LZfeyYBk-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\slide\\jay-wennington-N_Y88TWmGwA-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\slide\\jay-wennington-N_Y88TWmGwA-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\team\\matthew-hamilton-tNCH0sKSZbA-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\team\\matthew-hamilton-tNCH0sKSZbA-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\team\\nicolas-horn-MTZTGvDsHFY-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\team\\nicolas-horn-MTZTGvDsHFY-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\images\\team\\rc-cf-FMh5o5m5N9E-unsplash.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\team\\rc-cf-FMh5o5m5N9E-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\layoutuser\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\js\\custom.js",
+      "PackagePath": "staticwebassets\\layoutuser\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\layoutuser\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\video\\FestivalOpener.mp4",
+      "PackagePath": "staticwebassets\\layoutuser\\video\\FestivalOpener.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\video\\production_ID_3769033.mp4",
+      "PackagePath": "staticwebassets\\layoutuser\\video\\production_ID_3769033.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\css\\style.css",
+      "PackagePath": "staticwebassets\\login\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\login\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\material-icon\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\material-icon\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-600.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-600.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-600.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-600.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-600.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-600.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-600.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-600.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-600.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-600.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-900.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-900.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-900.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-900.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-900.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-regular.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-regular.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-regular.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\images\\confirm-image.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\confirm-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\images\\forgot-image.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\forgot-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\images\\signin-image.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\signin-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\images\\signup-image.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\signup-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\js\\main.js",
+      "PackagePath": "staticwebassets\\login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\vendor\\jquery\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\jquery\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\login\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ticket_Sales.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ticket_Sales.props",
+      "PackagePath": "build\\Ticket_Sales.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ticket_Sales.props",
+      "PackagePath": "buildMultiTargeting\\Ticket_Sales.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ticket_Sales.props",
+      "PackagePath": "buildTransitive\\Ticket_Sales.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

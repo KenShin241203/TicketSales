@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Ticket_Sales.Models.Event>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>List of Events</h1>
+<a asp-controller="Event" asp-action="Add">Create a new events</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Event ID</th>
+            <th>Event Name</th>
+            <th>Date</th>
+            <th>Total quantity</th>
+            <th>Address</th>
+            <th>Category</th>
+            <th>City</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Event_ID</td>
+                <td>@item.Event_Name</td>
+                <td>@item.Date</td>
+                <td>@item.Total_quantity</td>
+                <td>@item.Address</td>
+                <td>@(item.category?.Category_Name ?? "No Category")</td>
+                <td>@(item.location?.City_Name ?? "No City")</td>
+                <td><img src="@item.ImageUrl" alt="Show Image" style="width: 200px; height: auto;" /> </td>
+                <td>
+                    <a asp-action="Display" asp-route-id="@item.Event_ID" class="btn btn-success">View</a>
+                    <a asp-action="Update" asp-route-id="@item.Event_ID" class="btn btn-success">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.Event_ID" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+        
+</table>

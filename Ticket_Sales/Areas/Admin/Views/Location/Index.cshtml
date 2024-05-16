@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Ticket_Sales.Models.Location>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Location</h1>
+<a asp-controller="Location" asp-action="Add">Create Location</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>City Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Location_ID</td>
+                <td>@item.City_Name</td>
+                <td>
+                    <a asp-action="Display" asp-route-id="@item.Location_ID" class="btn btn-success">Detail</a>
+                    <a asp-action="Update" asp-route-id="@item.Location_ID" class="btn btn-success">Update</a>
+                    <a asp-action="Delete" asp-route-id="@item.Location_ID" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-controller="Ticket" asp-action="Index" class="btn btn-secondary">Back to view shows</a>

@@ -1,0 +1,81 @@
+﻿@model Ticket_Sales.Models.Types
+
+@{
+    ViewData["Title"] = "Add";
+     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Add</h1>
+
+<h4>Types</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Type_Name" class="control-label"></label>
+                <input asp-for="Type_Name" class="form-control" />
+                <span asp-validation-for="Type_Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control " />
+                <span asp-validation-for="Price" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label asp-for="LocationID" class="control-label"></label>
+                <select asp-for="LocationID" class="form-control" id="locationId" asp-items="ViewBag.Locations">
+                    <option disabled selected>---Select Location---</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="EventID" class="control-label"></label>
+                <select asp-for="EventID" class="form-control" id="eventId" asp-items="ViewBag.Events">
+                    <option disabled selected>---Select Location---</option>
+                </select>
+                
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        if ($("#locationId").val() == '0') {
+            var productDefaultValue = "<option value='0'>--Select event--</option>";
+            $("#eventId").html(productDefaultValue).show();
+        }
+
+        $("#locationId").change(function () {
+            var selectedItemValue = $(this).val();
+
+            var ddlEvents = $("#eventId");
+            $.ajax({
+                cache: false,
+                type: "GET",
+                url: '@Url.Action("GetEventByLocationId", "Types")',
+                data: { "id": selectedItemValue },
+                success: function (data) {
+                    ddlEvents.html('');
+                    $.each(data, function (id, option) {
+                        ddlEvents.append($('<option></option>').val(option.id).html(option.name));
+                    });
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    alert('Found error to load product!!.');
+                }
+            });
+        });
+    });
+</script>

@@ -1,0 +1,108 @@
+﻿@model CartItem
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+<form method="post">
+    <div class="card container">
+        <div class="card-header text-muted m-lg-0 row">
+            <div class="col-12 col-md-6">
+                <h1 class="text-info font-weight-bold">
+                    @Model.Event.Event_Name
+                </h1>
+                @* <span class="badge rounded-pill bg-warning mt-2" style="height:30px">@Model.Ticket.Category.Name</span> *@
+            </div>
+            <div class="col-12 col-md-6 text-end pt-4">
+               @*  <span class="badge bg-info pt-2" style="height:30px">@Model.Ticket.CategoryId</span> *@
+            </div>
+        </div>
+        <div class="card-body row container">
+            <div class="container rounded p-2">
+                <div class="row">
+                    <div class="col-8 col-lg-8">
+                        
+                        <div class="row text-center pl-2" style="color:black;font-weight:bold">
+                            <div class="p-1 col-2 ">
+                                <div>Thông tin vé</div>
+                            </div>
+                            <div class="d-flex flex-wrap align-items-center w-100 mt-2">
+                                <p3 class="reviews-text mb-0 me-3"><img src="/layoutuser/images/header/calendar-icon.png" style="padding-right:5px" />@Model.Event.Date</p3>
+                                <br />
+                                <p3 class="reviews-text mb-0 me-3"><img src="/layoutuser/images/header/icon_location1.png" style="padding-right:5px" />@Model.Event.Address</p3>
+                            </div>
+                            <p></p>
+                            @foreach(var item in Model.Types)
+                            {
+                                <div id="accordion">
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <a class="card-link" data-toggle="collapse" href=@item.Type_Id>
+                                                @item.Type_Name
+                                            </a>
+                                        </div>
+                                        <div id="@item.Type_Id" class="collapse show" data-parent="#accordion">
+                                            <div class="card-body">
+                                                Price: @item.Price $
+                                                @if(item.Quantity == 0)
+                                                {
+                                                    <span style="border: 1px solid; padding: 5px 8px; color: red; border-radius: 5px;">
+                                                        Out of stock
+                                                    </span>
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+             
+                        </div>
+                        <div class="row pl-2 mt-3">
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-3 offset-lg-1 text-center">
+                        <img src="@Model.Event.ImageUrl" width="100%" class="rounded" />
+                        <p></p>
+                        <button type="submit" value="add to cart" class="transition btn btn-outline-success" style="height:50px"
+                                asp-route-id="@Model.Event.Event_ID" asp-controller="ShoppingCart" asp-action="BookTicket">
+                            <i class="bi bi-basket">  </i>
+                            Book now
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="row">
+                <div class="col-12 col-md-6 pb-1">
+                    <a class="btn btn-warning transition" asp-action="Index" style="height:50px;">
+                        <i class="bi bi-arrow-return-left"></i>
+                        Back to List
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+<div class="mb-5"></div>
+
+@section Styles {
+    <style>
+        .tooltip-inner {
+            background-color: #fff;
+            color: #000;
+        }
+
+        .transition {
+            border-radius: 30px;
+            transition: transform 0.3s ease;
+        }
+
+            .transition:hover {
+                transform: scale(1.02);
+            }
+    </style>
+}

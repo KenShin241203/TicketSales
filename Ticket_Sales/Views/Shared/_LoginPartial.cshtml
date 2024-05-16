@@ -1,0 +1,78 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Ticket_Sales.Models.DB
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+{
+    
+@*     <li class="nav-item">
+        
+    </li> *@
+ @*    <li class="nav-item">
+        
+    </li> *@
+    <li class="dropdown">
+        <a class="nav-link">Tài khoản</a>
+            <div class="dropdown-content">
+                <a class="nav-link" asp-area="Identity" asp-page="/Account/Manage/Index">Trang cá nhân</a>
+                <a class ="nav-link" href="#">Vé đã mua</a>
+                <a id="manage" class="nav-link" asp-area="Admin" asp-controller="AdminPage" asp-action="Index">Admin</a>
+                <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button id="logout" type="submit" class="nav-link btn btn-link border-0">Logout</button>
+                </form>
+            </div>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link" id="login" asp-area="Identity" asp-page="/Account/Login">Login</a>
+    </li>
+}
+</ul>
+
+<style>
+    li {
+        float: left;
+    }
+
+    li a, .dropbtn {
+        display: inline-block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+
+    li.dropdown {
+        display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+    .dropdown-content a:hover {
+        background-color: #f1f1f1;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+</style>

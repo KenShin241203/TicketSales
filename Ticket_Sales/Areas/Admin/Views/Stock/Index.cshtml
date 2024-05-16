@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Ticket_Sales.Models.DTOs.StockDisplayModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Stocks</h2>
+
+<form asp-action="Index" method="get" class="my-2 d-flex gap-2">
+    <input type="text" name="sTerm" class="form-control w-25" placeholder="Search by type" />
+    <button type="submit" class="btn btn-primary">Find</button>
+    <a asp-action="Index" asp-controller="Stock" class="btn btn-primary">Clear</a>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Event</th>
+            <th>Stock</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.TypeName</td>
+                <td>@(item.events?.Event_Name)</td>
+                <td>@item.Quantity</td>
+                <td>
+                    <a asp-action="ManangeStock" asp-controller="Stock" asp-route-typeId="@item.TypeId" class="btn btn-info"> Update Stock</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

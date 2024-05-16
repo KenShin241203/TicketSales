@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Ticket_Sales.Models.Category>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Event Category</h1>
+<a asp-controller="Category" asp-action="Add">Create a new category of events</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Category_ID</td>
+                <td>@item.Category_Name</td>
+                <td>
+                    <a asp-action="Display" asp-route-id="@item.Category_ID" class="btn btn-success">Detail</a>
+                    <a asp-action="Update" asp-route-id="@item.Category_ID" class="btn btn-success">Update</a>
+                    <a asp-action="Delete" asp-route-id="@item.Category_ID" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-controller="Ticket" asp-action="Index" class="btn btn-secondary">Back to view shows</a>
+
