@@ -1,9 +1,12 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.Design;
 using Ticket_Sales.Models;
 using Ticket_Sales.Models.DB;
 using Ticket_Sales.Models.Repository;
+using Ticket_Sales.Models.Services;
 
 namespace Ticket_Sales.Controllers
 {
@@ -13,13 +16,17 @@ namespace Ticket_Sales.Controllers
         private readonly ITypeRepository _typeRepository;
         private readonly ApplicationDBContext _dbContext;
         private readonly UserManager<ApplicationUser> _userManager;
+        private readonly IVnPayService _vpnPayService;
 
-        public ShoppingCartController(IEventRepository eventRepository, ITypeRepository typeRepository, ApplicationDBContext dbContext, UserManager<ApplicationUser> userManager)
+        public ShoppingCartController(IEventRepository eventRepository, ITypeRepository typeRepository, 
+            ApplicationDBContext dbContext, UserManager<ApplicationUser> userManager,
+            IVnPayService vnPayService)
         {
             _eventRepository = eventRepository;
             _typeRepository = typeRepository;
             _dbContext = dbContext;
             _userManager = userManager;
+            _vpnPayService = vnPayService;
         }
 
         public async Task<IActionResult> Index()
@@ -89,9 +96,20 @@ namespace Ticket_Sales.Controllers
             return View(new Order());
         }
         [HttpPost]
-        public async Task<IActionResult> Checkout(Order order)
+        public async Task<IActionResult> Checkout(Order order, string paymentMethod ="")
         {
             var cart = HttpContext.Session.GetObjectFromJson<ShoppingCart>("Cart");
+            if(paymentMethod == "Thanh toán online")
+            {
+                var vnPayModel = new VnPaymentRequestModel
+                {
+                    Amount =(double) cart.Types.Sum(x => x.Price * x.orderQuantity),
+                    CreatedDate = DateTime.UtcNow,
+                    Description = order.Notes,
+                    OrderId = new Random().Next(1000, 10000),
+                };
+                return Redirect(_vpnPayService.CreatePaymentUrl(HttpContext, vnPayModel));
+            }
             var user = await _userManager.GetUserAsync(User);
             
             order.UserId = user.Id;
@@ -120,6 +138,24 @@ namespace Ticket_Sales.Controllers
             await _dbContext.SaveChangesAsync();
             HttpContext.Session.Remove("Cart");
             return View("OrderCompleted", order.Id);
+        }
+        [Authorize]
+        public IActionResult PaymentFail()
+        {
+            return View();
+        }
+
+        [Authorize]
+        public IActionResult PaymentCallBack()
+        {
+            var respone = _vpnPayService.PaymentExecute(Request.Query);
+            if(respone == null || respone.VnPayResponseCode != "00") 
+            {
+                TempData["Message"] = $"Lỗi thanh toán VN Pay: {respone.VnPayResponseCode}";
+                return RedirectToAction("PaymentFail");
+            }
+
+            return View("OrderCompleted");
         }
     }
 }

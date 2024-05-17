@@ -292,3 +292,4 @@ C:\Users\Tri Vinhx\source\repos\Base_Project\Ticket_Sales\bin\Debug\net8.0\Json.
 C:\Users\Tri Vinhx\source\repos\Base_Project\Ticket_Sales\bin\Debug\net8.0\xunit.abstractions.dll
 C:\Users\Tri Vinhx\source\repos\Base_Project\Ticket_Sales\bin\Debug\net8.0\xunit.core.dll
 C:\Users\Tri Vinhx\source\repos\Base_Project\Ticket_Sales\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\Tri Vinhx\source\repos\Base_Project\Ticket_Sales\obj\Debug\net8.0\Ticket_Sales.sourcelink.json

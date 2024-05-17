@@ -3,16 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\controllers\\eventusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\controllers\\eventusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\admin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\admin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\views\\shoppingcart\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\views\\shoppingcart\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\services\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\services\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\admin\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\admin\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\helper\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\helper\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\repository\\ef\\efstockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\repository\\ef\\efstockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\repository\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +91,12 @@
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\controllers\\eventusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\controllers\\eventusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\dtos\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,20 +135,12 @@
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\admin\\controllers\\typescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\repository\\ef\\eflocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\repository\\ef\\eflocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\repository\\ityperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\repository\\ityperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\admin\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\admin\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,20 +175,12 @@
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\admin\\views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\admin\\views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\admin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\admin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\admin\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -159,10 +199,6 @@
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\repository\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\migrations\\20240512135204_mig-stock-mgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\migrations\\20240512135204_mig-stock-mgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -171,20 +207,12 @@
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\views\\shoppingcart\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\migrations\\20240512073011_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\migrations\\20240512073011_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062654_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -267,10 +295,6 @@
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\admin\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\admin\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -335,10 +359,6 @@
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -361,10 +381,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\admin\\views\\location\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\areas\\admin\\views\\location\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|solutionrelative:ticket_sales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFF150FB-BEAB-4BA3-B095-C51EFA49E792}|Ticket_Sales\\Ticket_Sales.csproj|c:\\users\\tri vinhx\\source\\repos\\base_project\\ticket_sales\\areas\\admin\\controllers\\adminpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -426,33 +442,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\StockController.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\StockController.cs",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Controllers\\StockController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAASAAAA",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "Ticket_Sales\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAwHwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T05:20:10.557Z",
-              "IsPinned": true
+              "WhenOpened": "2024-05-13T14:20:43.418Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EFStockRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFStockRepository.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\EF\\EFStockRepository.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFStockRepository.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\EF\\EFStockRepository.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAA+wCgAAACFAAAA",
+              "DocumentIndex": 1,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Services\\VnPayService.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Services\\VnPayService.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Services\\VnPayService.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Services\\VnPayService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T12:12:45.851Z",
-              "IsPinned": true
+              "WhenOpened": "2024-05-16T07:46:12.902Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\appsettings.json",
+              "RelativeDocumentMoniker": "Ticket_Sales\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\appsettings.json",
+              "RelativeToolTip": "Ticket_Sales\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T03:38:22.164Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -467,24 +499,142 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T05:39:36.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentFail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\PaymentFail.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\ShoppingCart\\PaymentFail.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\PaymentFail.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\ShoppingCart\\PaymentFail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:44:37.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\EventUserController.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Controllers\\EventUserController.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\EventUserController.cs",
+              "RelativeToolTip": "Ticket_Sales\\Controllers\\EventUserController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:22:12.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VnPaymentResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\VnPaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\VnPaymentResponseModel.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\VnPaymentResponseModel.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\VnPaymentResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:02:02.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\ShoppingCart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\Checkout.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\ShoppingCart\\Checkout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:32:46.893Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "Ticket_Sales\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC0AAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:20:43.418Z"
+              "WhenOpened": "2024-05-13T12:18:15.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Services\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Services\\IVnPayService.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Services\\IVnPayService.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Services\\IVnPayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:15:23.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Program.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Program.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Program.cs",
+              "RelativeToolTip": "Ticket_Sales\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T03:20:04.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\StockController.cs",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Controllers\\StockController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwCwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:58:08.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:58:15.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Models\\OrderDetail.cs",
@@ -496,224 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\CartItem.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\CartItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:07:25.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Home\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Home\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Home\\Detail.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\Home\\Detail.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAhwEQAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T14:12:58.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Ticket_Sales\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T13:25:43.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\ShoppingCart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AQIAADIAAAAAAAAAAADwv0sAAACbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T14:28:17.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IStockRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\IStockRepository.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\IStockRepository.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\IStockRepository.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\IStockRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:29:31.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T11:01:24.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StockDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DTOs\\StockDTO.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\DTOs\\StockDTO.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DTOs\\StockDTO.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\DTOs\\StockDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T13:57:57.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EventUserController.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\EventUserController.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Controllers\\EventUserController.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\EventUserController.cs",
-              "RelativeToolTip": "Ticket_Sales\\Controllers\\EventUserController.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAkwBwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T03:22:12.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EFTypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFTypeRepository.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\EF\\EFTypeRepository.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFTypeRepository.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\EF\\EFTypeRepository.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCYAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T06:47:02.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StockDisplayModel.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DTOs\\StockDisplayModel.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\DTOs\\StockDisplayModel.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DTOs\\StockDisplayModel.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\DTOs\\StockDisplayModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:09:18.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EFEventRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFEventRepository.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\EF\\EFEventRepository.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFEventRepository.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\EF\\EFEventRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T12:38:13.712Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "EFEventCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFEventCategoryRepository.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\EF\\EFEventCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFEventCategoryRepository.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\EF\\EFEventCategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:58:27.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\ShoppingCart.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\ShoppingCart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:21:22.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 103,
-              "Title": "20240514063528_AddCoumnorderquantity.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240514063528_AddCoumnorderquantity.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240514063528_AddCoumnorderquantity.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240514063528_AddCoumnorderquantity.cs",
-              "RelativeToolTip": "Ticket_Sales\\Migrations\\20240514063528_AddCoumnorderquantity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:35:28.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TicketImages.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\TicketImages.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\TicketImages.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\TicketImages.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\TicketImages.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T03:19:03.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Types.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Types.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Types.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Types.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Types.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:03:06.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TypesController.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\TypesController.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\TypesController.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\TypesController.cs",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Controllers\\TypesController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T06:53:26.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EFLocationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFLocationRepository.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\EF\\EFLocationRepository.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFLocationRepository.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\EF\\EFLocationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T02:35:53.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Order.cs",
@@ -725,532 +658,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ITypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ITypeRepository.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\ITypeRepository.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ITypeRepository.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\ITypeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T06:46:36.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ICategoryRepository.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\ICategoryRepository.cs",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Ticket_Sales\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Ticket_Sales\\ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-01T04:45:13.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Helper\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Helper\\VnPayLibrary.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Helper\\VnPayLibrary.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Helper\\VnPayLibrary.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAIwGwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T13:31:37.269Z"
+              "WhenOpened": "2024-05-16T07:28:12.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Detail.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Detail.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T05:02:10.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IEventRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\IEventRepository.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\IEventRepository.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\IEventRepository.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\IEventRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T13:20:37.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Notifications.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Shared\\Notifications.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Shared\\Notifications.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Shared\\Notifications.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Shared\\Notifications.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T12:58:36.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AQIAAN8AAAAAAAAAAAAAAO4AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T12:20:54.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ManangeStock.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Stock\\ManangeStock.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Stock\\ManangeStock.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Stock\\ManangeStock.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Stock\\ManangeStock.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T12:56:04.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T04:44:06.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DB\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\DB\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DB\\ApplicationDBContext.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\DB\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T03:18:00.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Program.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Program.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Program.cs",
-              "RelativeToolTip": "Ticket_Sales\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T03:20:04.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Event\\Add.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Event\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Event\\Add.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Event\\Add.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T06:56:24.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Event.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Event.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Event.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Event.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T03:45:44.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\EventController.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\EventController.cs",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Controllers\\EventController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAEwCAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T12:18:15.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Event\\Index.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Event\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Event\\Index.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Event\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAaAAAA",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAADwv0sAAACbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T12:17:23.757Z"
+              "WhenOpened": "2024-05-13T14:28:17.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "RolesController.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\RolesController.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\RolesController.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\RolesController.cs",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Controllers\\RolesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T12:28:21.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "LocationController.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\LocationController.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\LocationController.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\LocationController.cs",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Controllers\\LocationController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAswAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T05:38:40.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ILocationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ILocationRepository.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\ILocationRepository.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ILocationRepository.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\ILocationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T02:35:45.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "20240512135204_mig-stock-mgt.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512135204_mig-stock-mgt.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240512135204_mig-stock-mgt.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512135204_mig-stock-mgt.cs",
-              "RelativeToolTip": "Ticket_Sales\\Migrations\\20240512135204_mig-stock-mgt.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T13:52:05.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Stock.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Stock.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Stock.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Stock.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Stock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T13:04:23.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T04:38:26.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "20240512073011_initial.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512073011_initial.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240512073011_initial.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512073011_initial.cs",
-              "RelativeToolTip": "Ticket_Sales\\Migrations\\20240512073011_initial.cs",
-              "ViewState": "AQIAADkBAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T07:30:11.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "OrderCompleted.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\OrderCompleted.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\ShoppingCart\\OrderCompleted.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\OrderCompleted.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\ShoppingCart\\OrderCompleted.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T07:44:30.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Location.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Location.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Location.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Location.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T10:25:49.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Checkout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\Checkout.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\ShoppingCart\\Checkout.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\Checkout.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\ShoppingCart\\Checkout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T07:07:20.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "20240512062654_initial.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062654_initial.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240512062654_initial.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062654_initial.cs",
-              "RelativeToolTip": "Ticket_Sales\\Migrations\\20240512062654_initial.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T06:26:55.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "20240512062405_initial.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062405_initial.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240512062405_initial.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062405_initial.cs",
-              "RelativeToolTip": "Ticket_Sales\\Migrations\\20240512062405_initial.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T06:24:05.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\SessionExtensions.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\SessionExtensions.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\SessionExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T04:09:33.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "20240512062042_initial.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062042_initial.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240512062042_initial.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062042_initial.cs",
-              "RelativeToolTip": "Ticket_Sales\\Migrations\\20240512062042_initial.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T06:20:42.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Update.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Update.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Update.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T13:59:15.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Index.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Index.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T04:56:29.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Delete.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Delete.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T06:52:33.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Category.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:10:36.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Story.cs",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Story.cs",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Story.cs",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Story.cs",
-              "RelativeToolTip": "Ticket_Sales\\Models\\Story.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T10:26:11.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-26T01:11:59.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Music.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Music.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\EventUser\\Music.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Music.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\EventUser\\Music.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAIBZwBcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T09:27:57.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-01T05:15:41.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "_LayoutProfile.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LayoutProfile.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Shared\\_LayoutProfile.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LayoutProfile.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\Shared\\_LayoutProfile.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-01T05:31:01.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "_LayoutLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LayoutLogin.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Shared\\_LayoutLogin.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LayoutLogin.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\Shared\\_LayoutLogin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-01T05:20:34.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Arts.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Arts.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\EventUser\\Arts.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Arts.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\EventUser\\Arts.cshtml",
-              "ViewState": "AQIAAGMAAAAAAAAAAIBZwAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T08:49:14.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "Sports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Sports.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\EventUser\\Sports.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Sports.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Views\\EventUser\\Sports.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAuwDkAAACnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T11:58:41.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\checkout\\css\\styles.css",
-              "RelativeDocumentMoniker": "Ticket_Sales\\wwwroot\\checkout\\css\\styles.css",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\checkout\\css\\styles.css",
-              "RelativeToolTip": "Ticket_Sales\\wwwroot\\checkout\\css\\styles.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-10T05:50:33.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-27T09:59:46.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBZwCgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-01T02:46:06.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "RelativeToolTip": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-01T05:26:17.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Views\\_ViewStart.cshtml",
@@ -1262,7 +707,664 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\CartItem.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:07:25.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAhwEQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T14:12:58.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ticket_Sales\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:25:43.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\IStockRepository.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:29:31.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T11:01:24.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StockDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DTOs\\StockDTO.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\DTOs\\StockDTO.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DTOs\\StockDTO.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\DTOs\\StockDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:57:57.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EFTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFTypeRepository.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\EF\\EFTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFTypeRepository.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\EF\\EFTypeRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:47:02.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StockDisplayModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DTOs\\StockDisplayModel.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\DTOs\\StockDisplayModel.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DTOs\\StockDisplayModel.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\DTOs\\StockDisplayModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:09:18.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EFEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFEventRepository.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\EF\\EFEventRepository.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFEventRepository.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\EF\\EFEventRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:38:13.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EFEventCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFEventCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\EF\\EFEventCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFEventCategoryRepository.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\EF\\EFEventCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:58:27.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:21:22.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20240514063528_AddCoumnorderquantity.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240514063528_AddCoumnorderquantity.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240514063528_AddCoumnorderquantity.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240514063528_AddCoumnorderquantity.cs",
+              "RelativeToolTip": "Ticket_Sales\\Migrations\\20240514063528_AddCoumnorderquantity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:35:28.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TicketImages.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\TicketImages.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\TicketImages.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\TicketImages.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\TicketImages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T03:19:03.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Types.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Types.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Types.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Types.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Types.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:03:06.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TypesController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\TypesController.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\TypesController.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\TypesController.cs",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Controllers\\TypesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:53:26.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EFLocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFLocationRepository.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\EF\\EFLocationRepository.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\EF\\EFLocationRepository.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\EF\\EFLocationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:35:53.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ITypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ITypeRepository.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\ITypeRepository.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ITypeRepository.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\ITypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:46:36.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:31:37.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Detail.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Detail.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T05:02:10.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\IEventRepository.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\IEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:20:37.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Notifications.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Shared\\Notifications.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Shared\\Notifications.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Shared\\Notifications.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Shared\\Notifications.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T12:58:36.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAAAO4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T12:20:54.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ManangeStock.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Stock\\ManangeStock.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Stock\\ManangeStock.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Stock\\ManangeStock.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Stock\\ManangeStock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T12:56:04.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T04:44:06.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DB\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\DB\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DB\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\DB\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:18:00.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Event\\Add.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Event\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Event\\Add.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Event\\Add.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T06:56:24.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Event.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:45:44.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Event\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T12:17:23.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:28:21.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Controllers\\LocationController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:38:40.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Repository\\ILocationRepository.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Repository\\ILocationRepository.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Repository\\ILocationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:35:45.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Stock.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:04:23.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T04:38:26.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderCompleted.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T07:44:30.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Location.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Location.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:25:49.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240512062654_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062654_initial.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240512062654_initial.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062654_initial.cs",
+              "RelativeToolTip": "Ticket_Sales\\Migrations\\20240512062654_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:26:55.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240512062405_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062405_initial.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240512062405_initial.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062405_initial.cs",
+              "RelativeToolTip": "Ticket_Sales\\Migrations\\20240512062405_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:24:05.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\SessionExtensions.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:09:33.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240512062042_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062042_initial.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240512062042_initial.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240512062042_initial.cs",
+              "RelativeToolTip": "Ticket_Sales\\Migrations\\20240512062042_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:20:42.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Update.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Update.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Update.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T13:59:15.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Index.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T04:56:29.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Types\\Delete.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\Types\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T06:52:33.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Category.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:10:36.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Story.cs",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Models\\Story.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\Story.cs",
+              "RelativeToolTip": "Ticket_Sales\\Models\\Story.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:26:11.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T01:11:59.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Music.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Music.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\EventUser\\Music.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Music.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\EventUser\\Music.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBZwBcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:27:57.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T05:15:41.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_LayoutProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LayoutProfile.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Shared\\_LayoutProfile.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LayoutProfile.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\Shared\\_LayoutProfile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T05:31:01.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_LayoutLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T05:20:34.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Arts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Arts.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\EventUser\\Arts.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Arts.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\EventUser\\Arts.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAIBZwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T08:49:14.251Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 68,
+              "Title": "Sports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Sports.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Views\\EventUser\\Sports.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\EventUser\\Sports.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Views\\EventUser\\Sports.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwDkAAACnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T11:58:41.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\checkout\\css\\styles.css",
+              "RelativeDocumentMoniker": "Ticket_Sales\\wwwroot\\checkout\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\checkout\\css\\styles.css",
+              "RelativeToolTip": "Ticket_Sales\\wwwroot\\checkout\\css\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-10T05:50:33.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T09:59:46.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwCgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T02:46:06.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T05:26:17.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
               "Title": "Display.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Event\\Display.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Event\\Display.cshtml",
@@ -1274,7 +1376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 73,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Event\\Delete.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Event\\Delete.cshtml",
@@ -1286,7 +1388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 75,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Home\\Privacy.cshtml",
@@ -1298,7 +1400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 78,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "Ticket_Sales\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -1310,7 +1412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 77,
               "Title": "ConfirmEmail.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
@@ -1322,7 +1424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 76,
               "Title": "tooplate-crispy-kitchen.css",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\wwwroot\\layoutuser\\css\\tooplate-crispy-kitchen.css",
               "RelativeDocumentMoniker": "Ticket_Sales\\wwwroot\\layoutuser\\css\\tooplate-crispy-kitchen.css",
@@ -1334,7 +1436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 82,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -1346,7 +1448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 83,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
@@ -1358,7 +1460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 80,
               "Title": "ForgotPassword.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
@@ -1370,7 +1472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 79,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -1382,7 +1484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 81,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -1394,7 +1496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 84,
               "Title": "ManageNavPages.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
@@ -1406,7 +1508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 85,
               "Title": "_ManageNav.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
@@ -1418,7 +1520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 86,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
@@ -1430,7 +1532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 87,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -1442,7 +1544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 88,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
@@ -1454,7 +1556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 89,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
@@ -1466,19 +1568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Ticket_Sales\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Ticket_Sales\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-01T04:45:13.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 91,
               "Title": "20240430142820_initial.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240430142820_initial.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240430142820_initial.cs",
@@ -1489,7 +1579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 90,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Category\\Add.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Category\\Add.cshtml",
@@ -1501,7 +1591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 92,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Event\\Update.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Event\\Update.cshtml",
@@ -1513,7 +1603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 93,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
@@ -1525,7 +1615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 94,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Views\\Location\\Update.cshtml",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Views\\Location\\Update.cshtml",
@@ -1537,19 +1627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\appsettings.json",
-              "RelativeDocumentMoniker": "Ticket_Sales\\appsettings.json",
-              "ToolTip": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\appsettings.json",
-              "RelativeToolTip": "Ticket_Sales\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-22T03:38:22.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 95,
               "Title": "AdminPageController.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Admin\\Controllers\\AdminPageController.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Admin\\Controllers\\AdminPageController.cs",
@@ -1561,7 +1639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 96,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Models\\DB\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Models\\DB\\ApplicationUser.cs",
@@ -1573,7 +1651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 97,
               "Title": "ConfirmEmail.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
@@ -1585,7 +1663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 98,
               "Title": "20240425032403_initial.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240425032403_initial.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240425032403_initial.cs",
@@ -1596,7 +1674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 99,
               "Title": "20240424035155_initial.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240424035155_initial.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240424035155_initial.cs",
@@ -1607,7 +1685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 100,
               "Title": "20240424034304_initial.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240424034304_initial.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240424034304_initial.cs",
@@ -1618,7 +1696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 101,
               "Title": "20240424031945_initial.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240424031945_initial.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240424031945_initial.cs",
@@ -1629,7 +1707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 102,
               "Title": "20240424031451_initial.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240424031451_initial.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240424031451_initial.cs",
@@ -1640,7 +1718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 103,
               "Title": "20240423134450_initial.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240423134450_initial.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240423134450_initial.cs",
@@ -1651,7 +1729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 104,
               "Title": "20240423132544_initial.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240423132544_initial.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240423132544_initial.cs",
@@ -1662,7 +1740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 105,
               "Title": "20240422122340_initial.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240422122340_initial.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240422122340_initial.cs",
@@ -1673,7 +1751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 106,
               "Title": "20240422103636_initial.cs",
               "DocumentMoniker": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Migrations\\20240422103636_initial.cs",
               "RelativeDocumentMoniker": "Ticket_Sales\\Migrations\\20240422103636_initial.cs",

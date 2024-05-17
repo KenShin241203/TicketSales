@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Ticket_Sales.Models.DB;
 using Ticket_Sales.Models.Repository;
 using Ticket_Sales.Models.Repository.EF;
+using Ticket_Sales.Models.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ApplicationDBContext>(options =>
@@ -31,7 +32,11 @@ builder.Services.AddSession(options =>
     options.Cookie.HttpOnly = true;
     options.Cookie.IsEssential = true;
 });
+
+builder.Services.AddSingleton<IVnPayService, VnPayService>();
+
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
