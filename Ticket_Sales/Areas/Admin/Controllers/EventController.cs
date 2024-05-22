@@ -23,9 +23,36 @@ namespace Ticket_Sales.Areas.Admin.Controllers
             _categoryRepository = categoryRepository;
             _eventRepository = eventRepository;
         }
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string? LocationId, string? searchingString)
         {
+            LocationId = LocationId ?? null;
             var events = await _eventRepository.GetEventsAsync();
+            var locations = await _locationRepository.GetLocationsAsync();
+            ViewBag.Locations = new SelectList(locations, "Location_ID", "City_Name", LocationId);
+            if (searchingString != null)
+            {
+                var eventfound = events.Where(x => x.Event_Name.ToUpper().Contains(searchingString.ToUpper()));
+                if (LocationId != null)
+                {
+                    if (LocationId == "TQ")
+                    {
+                        return View(eventfound);
+                    }
+                    var locationfound = events.Where(x => x.LocationID == LocationId).Where(x => x.Event_Name.ToUpper().Contains(searchingString.ToUpper()));
+                    return View(locationfound);
+                }
+                return View(eventfound);
+            }
+            else if (LocationId != null)
+            {
+
+                if (LocationId == "TQ")
+                {
+                    return View(events);
+                }
+                var locationfound = events.Where(x => x.LocationID == LocationId);
+                return View(locationfound);
+            }
             return View(events);
         }
 

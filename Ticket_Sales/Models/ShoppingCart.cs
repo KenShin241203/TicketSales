@@ -11,6 +11,7 @@
         public decimal TotalPrice => (decimal)Price*Quantity;
         public List<CartItem> Items{ get; set; } = new List<CartItem>();
         public IEnumerable<Types> Types { get; set; }
+        public CartItem Item { get; set; }
         public void AddEvent(CartItem item, IEnumerable<Types> types)
         {
             Types = types;

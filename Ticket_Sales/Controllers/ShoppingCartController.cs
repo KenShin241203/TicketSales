@@ -108,32 +108,33 @@ namespace Ticket_Sales.Controllers
                     Description = order.Notes,
                     OrderId = new Random().Next(1000, 10000),
                 };
-                return Redirect(_vpnPayService.CreatePaymentUrl(HttpContext, vnPayModel));
-            }
-            var user = await _userManager.GetUserAsync(User);
+                var user = await _userManager.GetUserAsync(User);
             
-            order.UserId = user.Id;
-            order.OrderDate = DateTime.UtcNow;
-            order.TotalPrice = cart.Types.Sum(x => x.Price*x.orderQuantity);
-            _dbContext.Order.Add(order);
-            await _dbContext.SaveChangesAsync();
-            foreach(var item in cart.Types)
-            {
-                var orderDetail = new OrderDetail
+                order.UserId = user.Id;
+                order.OrderDate = DateTime.UtcNow;
+                order.Email = user.Email;
+                order.TotalPrice = cart.Types.Sum(x => x.Price*x.orderQuantity);
+                _dbContext.Order.Add(order);
+                await _dbContext.SaveChangesAsync();
+                foreach(var item in cart.Types)
                 {
-                    TypeId = item.Type_Id,
-                    Price = item.Price,
-                    OrderId = order.Id,
-                    Quantity = item.orderQuantity
-                };
-                _dbContext.OrderDetail.Add(orderDetail);
-                var stock = await _dbContext.Stocks.FirstOrDefaultAsync(a => a.TypeId == item.Type_Id);
-                if (stock == null)
-                {
-                    throw new InvalidOperationException("Stock is null");
+                    var orderDetail = new OrderDetail
+                    {
+                        TypeId = item.Type_Id,
+                        Price = item.Price,
+                        OrderId = order.Id,
+                        Quantity = item.orderQuantity
+                    };
+                    _dbContext.OrderDetail.Add(orderDetail);
+                    var stock = await _dbContext.Stocks.FirstOrDefaultAsync(a => a.TypeId == item.Type_Id);
+                    if (stock == null)
+                    {
+                        throw new InvalidOperationException("Stock is null");
+                    }
+                    // decrease the number of quantity from the stock table
+                    stock.Quantity -= item.orderQuantity;
                 }
-                // decrease the number of quantity from the stock table
-                stock.Quantity -= item.orderQuantity;
+                return Redirect(_vpnPayService.CreatePaymentUrl(HttpContext, vnPayModel));
             }
             await _dbContext.SaveChangesAsync();
             HttpContext.Session.Remove("Cart");

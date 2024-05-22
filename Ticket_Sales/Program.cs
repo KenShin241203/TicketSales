@@ -24,6 +24,7 @@ builder.Services.AddScoped<IEventRepository, EFEventRepository>();
 builder.Services.AddScoped<ICategoryRepository,EFCategoryRepository>();
 builder.Services.AddScoped<ITypeRepository, EFTypeRepository>();
 builder.Services.AddScoped<IStockRepository, EFStockRepository>();
+builder.Services.AddScoped<IOrderRepository, EFOrderRepository>();
 
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "imUkxBTO5sTSm0NqtMNJ7Cs+/ZEivtG2rw9LVR9DZDWfEomp+oB9v8upVyzXuAuCsRvbCxChVIqUWBZ4h7fexQ==",
+  "dgSpecHash": "YGIbjQomGR5UKsq4eTcCiB8cUtkPj+ilQdp37v11iZOqlh1MkOvn0NWdYrKuEuTHYmK4GTG8IEAGrNMMW3R73Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tri Vinhx\\source\\repos\\Base_Project\\Ticket_Sales\\Ticket_Sales.csproj",
+  "projectFilePath": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\Ticket_Sales.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tri Vinhx\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Tri Vinhx\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -22,7 +22,8 @@ namespace Ticket_Sales.Controllers
         }
         public IActionResult Index()
         {
-            return View();
+            var categories = _categoryRepository.GetCategoriesAsync();
+            return View(categories);
         }
 
         public async Task<IActionResult> Detail(int id)

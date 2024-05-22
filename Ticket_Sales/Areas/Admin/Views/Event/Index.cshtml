@@ -6,6 +6,17 @@
 
 <h1>List of Events</h1>
 <a asp-controller="Event" asp-action="Add">Create a new events</a>
+<div class="search-box col-6 align-content-center">
+    <form asp-controller="Event" asp-action="Index" method="get">
+        <span class="btn-group">
+            <select asp-items="ViewBag.Locations" name="LocationId" class="form-control">
+                <option disabled selected>---Select Location---</option>
+            </select>
+            <input type="text" placeholder="Nhập từ khoá..." name="searchingString" class="form-control" style="border-radius: 5px " />
+            <input class="p-2-4 btn btn-sm btn-info" type="submit" style="border-radius: 15px; margin-left: 10px; width:200px" value="Search" />
+        </span>
+    </form>
+</div>
 <table class="table">
     <thead>
         <tr>

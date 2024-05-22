@@ -54,7 +54,7 @@ namespace Ticket_Sales.Controllers
         public async Task<IActionResult> Arts(string? LocationId, string? searchingString)
         {
             LocationId = LocationId ?? null;
-            var events = _dbContext.Event.Where(p => p.CategoryID == 2).ToList();
+            var events = _dbContext.Event.Where(p => p.CategoryID == 3).ToList();
             var locations = await _locationRepository.GetLocationsAsync();
             ViewBag.Locations = new SelectList(locations, "Location_ID", "City_Name", LocationId);
             if (searchingString != null)
@@ -86,7 +86,7 @@ namespace Ticket_Sales.Controllers
         public async Task<IActionResult> Sports(string? LocationId, string? searchingString)
         {
             LocationId = LocationId ?? null;
-            var events = _dbContext.Event.Where(p => p.CategoryID == 3).ToList();
+            var events = _dbContext.Event.Where(p => p.CategoryID == 2).ToList();
             var locations = await _locationRepository.GetLocationsAsync();
             ViewBag.Locations = new SelectList(locations, "Location_ID", "City_Name", LocationId);
             if (searchingString != null)

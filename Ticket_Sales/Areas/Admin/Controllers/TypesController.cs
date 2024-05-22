@@ -24,9 +24,38 @@ namespace Ticket_Sales.Areas.Admin.Controllers
             _locationRepository = locationRepository;
             _context = context;
         }
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string? LocationId, int? eventId)
         {
+            LocationId = LocationId ?? null;
             var types = await _typeRepository.GetAllTypeAsync();
+            var events = await _eventRepository.GetEventsAsync();
+            var locations = await _locationRepository.GetLocationsAsync();
+            ViewBag.Locations = new SelectList(locations, "Location_ID", "City_Name");
+            ViewBag.Events = new SelectList(events, "Event_ID", "Event_Name");
+            if (LocationId != null)
+            {
+                var locationfound = types.Where(x => x.LocationID == LocationId);
+                if (eventId != null)
+                {
+                    if (LocationId == "TQ")
+                    {
+                        return View(types);
+                    }
+                    var eventfound = types.Where(x => x.LocationID == LocationId).Where(x => x.EventID == eventId);
+                    return View(eventfound);
+                }
+                return View(locationfound);
+            }
+            else if (LocationId != null)
+            {
+
+                if (LocationId == "TQ")
+                {
+                    return View(types);
+                }
+                var locationfound = types.Where(x => x.LocationID == LocationId);
+                return View(locationfound);
+            }
             return View(types);
         }
 

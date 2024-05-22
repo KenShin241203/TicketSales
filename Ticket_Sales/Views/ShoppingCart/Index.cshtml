@@ -31,27 +31,26 @@
                         
                             @if(item.orderQuantity < item.Quantity)
                             {
-                                <div class="col">   
-                                    <form asp-action="Increase" asp-controller="ShoppingCart" method="post">
-                                        <input type="hidden" name="TypeID" value="@item.Type_Id" min="0" max="10" />
-                                        <button type="submit" class="btn btn-primary btn-sm" style="border-radius:50px">+</button>
-                                    </form>
-                                </div>
                                 <div class="col">
                                     <form asp-action="Decrease" asp-controller="ShoppingCart" method="post">
                                         <input type="hidden" name="TypeID" value="@item.Type_Id" min="0" max="10" />
                                         <button type="submit" class="btn btn-primary btn-sm" style="border-radius:50px">-</button>
                                     </form>
                                 </div>
+                                <div class="col">   
+                                    <form asp-action="Increase" asp-controller="ShoppingCart" method="post">
+                                        <input type="hidden" name="TypeID" value="@item.Type_Id" min="0" max="10" />
+                                        <button type="submit" class="btn btn-primary btn-sm" style="border-radius:50px">+</button>
+                                    </form>
+                                </div>
                             }
-                            else
+                            else 
                             {
                                 <span style="border: 1px solid;padding: 4px 8px;color: red;border-radius: 5px;margin-right:4px">Out of stock </span>
                             }
                     </div>
                 </div>
             }
-            <div class="back-to-shop"><a asp-action="Detail" asp-controller="Home" asp-route-id="@Model.EventId">&leftarrow;</a><span class="text-muted">Back to detail</span></div>
         </div>
         <div class="col-md-4 summary">
             <div><h5><b>Summary</b></h5></div>
@@ -65,7 +64,7 @@
             }
             <p></p>
             <div class="col">
-                <div class="row text-muted"><img src="/layoutuser/images/header/icon_ticket.png" style="width:20px; height:20px"/>X @Model.Types.Sum( x => x.Quantity) </div>
+                <div class="row text-muted"><img src="/layoutuser/images/header/icon_ticket.png" style="width:20px; height:20px"/>X @Model.Types.Sum( x => x.orderQuantity) </div>
             </div>
             <div class="row" style="border-top: 1px solid rgba(0,0,0,.1); padding: 2vh 0;">
                 <div class="col">TOTAL PRICE</div>

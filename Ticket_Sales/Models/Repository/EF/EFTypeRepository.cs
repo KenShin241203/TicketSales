@@ -18,7 +18,7 @@ namespace Ticket_Sales.Models.Repository.EF
 
         public async Task<IEnumerable<Types>> GetAllTypeAsync()
         {
-            return await _context.Type.ToListAsync();
+            return await _context.Type.Include(x => x.events).ToListAsync();
         }
         public async Task<IEnumerable<Types>> GetTypesAsync(int eventId)
         {

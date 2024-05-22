@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Ticket_Sales.Models.Order>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Lịch sử mua hàng của khách hàng</h1>
+<div class="search-box  align-content-center">
+    <form asp-controller="OrderHistory" asp-action="Index" method="get">
+        <span class="btn-group">
+            <input type="text" placeholder="Nhập từ khoá..." name="searching" class="form-control" style="border-radius: 5px " />
+            <input class=" btn btn-sm btn-info align-items-center" type="submit" style="border-radius: 15px; margin-left: 10px; width:200px" value="Search" />
+        </span>
+    </form>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>UserId</th>
+            <th>Email</th>
+            <th>Amount</th>
+            <th>Order Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.UserId</td>
+                <td>@item.Email</td>
+                <td>@item.TotalPrice $</td>
+                <td>@item.OrderDate</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
