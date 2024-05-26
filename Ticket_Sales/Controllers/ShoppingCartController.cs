@@ -10,6 +10,7 @@ using Ticket_Sales.Models.Services;
 
 namespace Ticket_Sales.Controllers
 {
+    
     public class ShoppingCartController : Controller
     {
         private readonly IEventRepository _eventRepository;
@@ -28,7 +29,7 @@ namespace Ticket_Sales.Controllers
             _userManager = userManager;
             _vpnPayService = vnPayService;
         }
-
+        [Authorize(Roles = "Customer")]
         public async Task<IActionResult> Index()
         {
             var cart = HttpContext.Session.GetObjectFromJson<ShoppingCart>("Cart") ?? new ShoppingCart();
@@ -113,19 +114,25 @@ namespace Ticket_Sales.Controllers
                 order.UserId = user.Id;
                 order.OrderDate = DateTime.UtcNow;
                 order.Email = user.Email;
+                order.eventName = cart.EventName;
                 order.TotalPrice = cart.Types.Sum(x => x.Price*x.orderQuantity);
                 _dbContext.Order.Add(order);
                 await _dbContext.SaveChangesAsync();
-                foreach(var item in cart.Types)
+                foreach (var item in cart.Types)
                 {
-                    var orderDetail = new OrderDetail
+                    if(item.Quantity > 0)
                     {
-                        TypeId = item.Type_Id,
-                        Price = item.Price,
-                        OrderId = order.Id,
-                        Quantity = item.orderQuantity
-                    };
-                    _dbContext.OrderDetail.Add(orderDetail);
+                        var orderDetail = new OrderDetail
+                        {
+                            TypeId = item.Type_Id,
+                            Price = item.Price,
+                            EventId = item.EventID,
+                            OrderId = order.Id,
+                            Quantity = item.orderQuantity
+                        };
+                   
+                        _dbContext.OrderDetail.Add(orderDetail);
+                    }
                     var stock = await _dbContext.Stocks.FirstOrDefaultAsync(a => a.TypeId == item.Type_Id);
                     if (stock == null)
                     {
@@ -134,9 +141,9 @@ namespace Ticket_Sales.Controllers
                     // decrease the number of quantity from the stock table
                     stock.Quantity -= item.orderQuantity;
                 }
+                await _dbContext.SaveChangesAsync();
                 return Redirect(_vpnPayService.CreatePaymentUrl(HttpContext, vnPayModel));
             }
-            await _dbContext.SaveChangesAsync();
             HttpContext.Session.Remove("Cart");
             return View("OrderCompleted", order.Id);
         }
@@ -155,7 +162,7 @@ namespace Ticket_Sales.Controllers
                 TempData["Message"] = $"Lỗi thanh toán VN Pay: {respone.VnPayResponseCode}";
                 return RedirectToAction("PaymentFail");
             }
-
+            
             return View("OrderCompleted");
         }
     }

@@ -65,7 +65,7 @@
                         <img src="@Model.Event.ImageUrl" width="100%" class="rounded" />
                         <p></p>
                         <button type="submit" value="add to cart" class="transition btn btn-outline-success" style="height:50px"
-                                asp-route-id="@Model.Event.Event_ID" asp-controller="ShoppingCart" asp-action="BookTicket">
+                                asp-area="Customer" asp-route-id="@Model.Event.Event_ID" asp-controller="ShoppingCart" asp-action="BookTicket">
                             <i class="bi bi-basket">  </i>
                             Book now
                         </button>
@@ -76,7 +76,7 @@
         <div class="card-footer">
             <div class="row">
                 <div class="col-12 col-md-6 pb-1">
-                    <a class="btn btn-warning transition" asp-action="Index" asp-controller="Home" style="height:50px;">
+                    <a class="btn btn-warning transition"  asp-action="Index" asp-controller="Home" style="height:50px;">
                         <i class="bi bi-arrow-return-left"></i>
                         Back to List
                     </a>

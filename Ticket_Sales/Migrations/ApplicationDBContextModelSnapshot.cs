@@ -310,6 +310,10 @@ namespace Ticket_Sales.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Notes")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -327,6 +331,10 @@ namespace Ticket_Sales.Migrations
                     b.Property<string>("UserId")
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("eventName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
@@ -383,7 +391,8 @@ namespace Ticket_Sales.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("TypeId");
+                    b.HasIndex("TypeId")
+                        .IsUnique();
 
                     b.ToTable("Stock");
                 });
@@ -567,8 +576,8 @@ namespace Ticket_Sales.Migrations
             modelBuilder.Entity("Ticket_Sales.Models.Stock", b =>
                 {
                     b.HasOne("Ticket_Sales.Models.Types", "Type")
-                        .WithMany()
-                        .HasForeignKey("TypeId")
+                        .WithOne("Stock")
+                        .HasForeignKey("Ticket_Sales.Models.Stock", "TypeId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -610,6 +619,11 @@ namespace Ticket_Sales.Migrations
             modelBuilder.Entity("Ticket_Sales.Models.Order", b =>
                 {
                     b.Navigation("orderDetails");
+                });
+
+            modelBuilder.Entity("Ticket_Sales.Models.Types", b =>
+                {
+                    b.Navigation("Stock");
                 });
 #pragma warning restore 612, 618
         }

@@ -43,5 +43,7 @@ namespace Ticket_Sales.Models.Repository.EF
             _context.Event.Update(events);
             await _context.SaveChangesAsync();
         }
+
+
     }
 }

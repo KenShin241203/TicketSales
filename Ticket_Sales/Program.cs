@@ -25,8 +25,9 @@ builder.Services.AddScoped<ICategoryRepository,EFCategoryRepository>();
 builder.Services.AddScoped<ITypeRepository, EFTypeRepository>();
 builder.Services.AddScoped<IStockRepository, EFStockRepository>();
 builder.Services.AddScoped<IOrderRepository, EFOrderRepository>();
+builder.Services.AddScoped<IOrderDetailRepository, EFOrderDetailRepository>();
+builder.Services.AddSingleton<IVnPayService, VnPayService>();
 
-builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
 {
     options.IdleTimeout = TimeSpan.FromMinutes(30);
@@ -34,8 +35,7 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
-builder.Services.AddSingleton<IVnPayService, VnPayService>();
-
+builder.Services.AddDistributedMemoryCache();
 var app = builder.Build();
 
 
@@ -60,10 +60,11 @@ app.UseEndpoints(endpoints =>
       name: "areas",
       pattern: "{area:exists}/{controller=AdminPage}/{action=Index}/{id?}"
     );
-    //endpoints.MapControllerRoute(
-    //  name: "areas",
-    //  pattern: "{area:exists}/{controller=ShoppingCart}/{action=Index}/{id?}"
-    //  );
+    endpoints.MapControllerRoute(
+      name: "areas",
+      pattern: "{area:exists}/{controller=ShoppingCart}/{action=Index}/{id?}"
+    );
+
 });
 app.MapControllerRoute(
     name: "default",

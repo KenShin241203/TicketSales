@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using Ticket_Sales.Models;
 using Ticket_Sales.Models.DB;
@@ -20,10 +21,11 @@ namespace Ticket_Sales.Controllers
             _categoryRepository = categoryRepository;
             _dbContext = dbContext;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var categories = _categoryRepository.GetCategoriesAsync();
-            return View(categories);
+            var events = await _eventRepository.GetEventsAsync();
+
+            return View(events);
         }
 
         public async Task<IActionResult> Detail(int id)

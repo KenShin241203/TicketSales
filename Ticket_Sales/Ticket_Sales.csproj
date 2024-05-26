@@ -15,6 +15,11 @@
 
   <ItemGroup>
     <None Include="Areas\Admin\Views\OrderHistory\Index.cshtml" />
+    <None Include="wwwroot\homepage\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\homepage\js\jquery-1.11.0.min.js" />
+    <None Include="wwwroot\homepage\js\modernizr.js" />
+    <None Include="wwwroot\homepage\js\plugins.js" />
+    <None Include="wwwroot\homepage\js\script.js" />
   </ItemGroup>
 
   <ItemGroup>

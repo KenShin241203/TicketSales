@@ -9,6 +9,7 @@ namespace Ticket_Sales.Models
         public string UserId { get; set; }
         public DateTime OrderDate { get; set; }
         public string Email {  get; set; }
+        public string eventName {  get; set; }
         public decimal TotalPrice { get; set; }
         public string ShippingAddress { get; set; }
         public string Notes { get; set; }

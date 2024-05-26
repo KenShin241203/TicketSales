@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Images\\Book101.png"
     },
     {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\back.png",
+      "PackagePath": "staticwebassets\\Images\\back.png"
+    },
+    {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\bong_bau_duc.jpg",
       "PackagePath": "staticwebassets\\Images\\bong_bau_duc.jpg"
     },
@@ -33,6 +37,10 @@
       "PackagePath": "staticwebassets\\Images\\bp_tour.jpg"
     },
     {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\fire.jpg",
+      "PackagePath": "staticwebassets\\Images\\fire.jpg"
+    },
+    {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\jb_tour.jpg",
       "PackagePath": "staticwebassets\\Images\\jb_tour.jpg"
     },
@@ -51,6 +59,10 @@
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\liveshow_5.jpg",
       "PackagePath": "staticwebassets\\Images\\liveshow_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\next.png",
+      "PackagePath": "staticwebassets\\Images\\next.png"
     },
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\pmq_show.jpg",
@@ -547,6 +559,46 @@
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\homepage\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\homepage\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\homepage\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\homepage\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\homepage\\css\\style.css",
+      "PackagePath": "staticwebassets\\homepage\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\homepage\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\homepage\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\homepage\\js\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\homepage\\js\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\homepage\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\homepage\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\homepage\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\homepage\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\homepage\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\homepage\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\homepage\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\homepage\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\homepage\\js\\script.js",
+      "PackagePath": "staticwebassets\\homepage\\js\\script.js"
     },
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\js\\site.js",

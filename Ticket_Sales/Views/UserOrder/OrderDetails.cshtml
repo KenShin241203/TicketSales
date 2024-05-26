@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Ticket_Sales.Models.OrderDetail>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>OrderDetails</h1>
+
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-md-10">
+
+            <table class="table table-bordered table-hover" style="margin:30px; align-content:center">
+                <h1>Order story</h1>
+                <thead>
+                    <tr>
+                        <th>Event</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                        <th>Order</th>
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.EventId</td>
+                            <td>@item.Quantity</td>
+                            <td>@item.Price</td>
+                            <td>@item.Order.Id</td>
+                            <td>@item.Type.Type_Name</td>
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+        </div>
+
+
+    </div>
+</div>

@@ -1,4 +1,5 @@
-﻿@{
+﻿@model IEnumerable<Ticket_Sales.Models.Event>
+@{
     ViewData["Title"] = "Home Page";
     Layout = "/Views/Shared/_Layout.cshtml";
 }
@@ -13,12 +14,243 @@
 </section>
 
 <section class="menu section-padding">
-    <div class="container">
-        <main role="main" class="row">
-            <div class="text-center">
-                <h1 class="display-4">Welcome</h1>
-                <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <body>
+        <h2 style="text-align:center">Hot Events</h2>
+        <div class="gallery-wrap">
+            <img src="Images/back.png" id="backbtn">
+            <div class="gallery">
+                <div>
+                    <span><img src="/Images/skytour.jpg"></span>
+                    <span><img src="/Images/show_den.jpg"></span>
+                    <span><img src="/Images/liveshow_5.jpg"></span>
+                </div>
+                <div>
+                    <span><img src="/Images/liveshow_1.png"></span>
+                    <span><img src="/Images/liveshow_2.jpg"></span>
+                    <span><img src="/Images/liveshow3.jpg"></span>
+                </div>
             </div>
-        </main>
-    </div>
+            <img src="Images/next.png" id="nextbtn">
+        </div>
+        <div class="container">
+            <div class="row">
+                <h3 style="text-align:left">Âm nhạc</h3>
+                <a class="more-link" asp-area="" asp-controller="EventUser" asp-action="Music">Xem thêm &#8594</a>
+                @{
+                    var count = 0;
+                    @foreach(var item in Model.Where(x => x.CategoryID == 1))
+                    {
+                    
+                        count ++;
+                        int max = 4;
+                        @if (count < max)
+                        {
+                            
+                            <div class="col-lg-4 col-md-6 col-12">
+                                <div class="menu-thumb">
+                                    <img src="@item.ImageUrl" style="width:467.2px; height:467.2px" class="img-fluid menu-image" alt="">
+
+                                    <div class="menu-info d-flex flex-wrap align-items-center">
+                                        <h4 class="mb-0">@item.Event_Name</h4>
+                                        <a asp-controller="Home" asp-action="Detail" asp-route-id="@item.Event_ID"><button class="button-50 ms-4" role="button">Detail</button></a>
+
+                                        <div class="d-flex flex-wrap align-items-center w-100 mt-2">
+                                            <p3 class="reviews-text mb-0 me-3"><img src="/layoutuser/images/header/calendar-icon.png" style="padding-right:5px" />@item.Date</p3>
+                                            <br />
+                                            <p3 class="reviews-text mb-0 me-3"><img src="/layoutuser/images/header/icon_location1.png" style="padding-right:5px" />@item.location.City_Name</p3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }            
+                }
+            </div>
+            <div class="row">
+
+                <h3 style="text-align:left">Thể thao</h3>
+                <a class="more-link" asp-area="" asp-controller="EventUser" asp-action="Sports">Xem thêm &#8594</a>
+                @{
+                    var count1 = 0;
+                    @foreach (var item in Model.Where(x => x.CategoryID == 2))
+                    {
+                        count1++;
+                        int max = 4;
+                        @if(count1 < max)
+                        {
+                            <div class="col-lg-4 col-md-6 col-12">
+                                <div class="menu-thumb">
+                                    <img src="@item.ImageUrl" style="width:467.2px; height:467.2px" class="img-fluid menu-image" alt="">
+
+                                    <div class="menu-info d-flex flex-wrap align-items-center">
+                                        <h4 class="mb-0">@item.Event_Name</h4>
+                                        <a asp-controller="Home" asp-action="Detail" asp-route-id="@item.Event_ID"><button class="button-50 ms-4" role="button">Detail</button></a>
+
+                                        <div class="d-flex flex-wrap align-items-center w-100 mt-2">
+                                            <p3 class="reviews-text mb-0 me-3"><img src="/layoutuser/images/header/calendar-icon.png" style="padding-right:5px" />@item.Date</p3>
+                                            <br />
+                                            <p3 class="reviews-text mb-0 me-3"><img src="/layoutuser/images/header/icon_location1.png" style="padding-right:5px" />@item.location.City_Name</p3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }    
+                }
+            </div>
+            <div class="row">
+                <h3 style="text-align:left">Nghệ thuật</h3>
+                <a class="more-link" asp-area="" asp-controller="EventUser" asp-action="Arts">Xem thêm &#8594</a>
+                @{
+                    var count2 = 0;
+                    @foreach (var item in Model.Where(x => x.CategoryID == 3))
+                    {
+                        count2++;
+                        int max = 4;
+                        @if (count2 < max)
+                        {
+                            <div class="col-lg-4 col-md-6 col-12">
+                                <div class="menu-thumb">
+                                    <img src="@item.ImageUrl" style="width:467.2px; height:467.2px" class="img-fluid menu-image" alt="">
+
+                                    <div class="menu-info d-flex flex-wrap align-items-center">
+                                        <h4 class="mb-0">@item.Event_Name</h4>
+                                        <a asp-controller="Home" asp-action="Detail" asp-route-id="@item.Event_ID"><button class="button-50 ms-4" role="button">Detail</button></a>
+
+                                        <div class="d-flex flex-wrap align-items-center w-100 mt-2">
+                                            <p3 class="reviews-text mb-0 me-3"><img src="/layoutuser/images/header/calendar-icon.png" style="padding-right:5px" />@item.Date</p3>
+                                            <br />
+                                            <p3 class="reviews-text mb-0 me-3"><img src="/layoutuser/images/header/icon_location1.png" style="padding-right:5px" />@item.location.City_Name</p3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                }
+            </div>
+        </div>
+    </body>
 </section>
+
+<style>
+
+    .gallery {
+    width: 1200px;
+    display: flex;
+    overflow-x: scroll;
+    }
+
+        .gallery div {
+            width: 100%;
+            display: grid;
+            grid-template-columns: auto auto auto;
+            grid-gap: 20px;
+            padding: 10px;
+            flex: none;
+        }
+
+            .gallery div img {
+                width: 100%;
+                height: 500px;
+                transition: transform 0.5s;
+                border-radius: 5px;
+            }
+
+        .gallery::-webkit-scrollbar {
+            display: none;
+        }
+
+    .gallery-wrap {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 5% auto;
+    }
+
+    #backbtn, #nextbtn {
+        width: 50px;
+        cursor: pointer;
+        margin: 40px;
+    }
+
+    .gallery div img:hover {
+        filter: grayscale(0);
+        cursor: pointer;
+        transform: scale(1.1);
+    }
+
+    .more-link{
+        text-align: right;
+        color: black;
+        text-decoration:none;
+    }
+        .more-link:hover{
+            text-decoration-color: white
+        }
+
+    .button-50 {
+        appearance: button;
+        background-color: #000;
+        background-image: none;
+        border: 1px solid #000;
+        border-radius: 4px;
+        box-shadow: #fff 4px 4px 0 0,#000 4px 4px 0 1px;
+        box-sizing: border-box;
+        color: #fff;
+        cursor: pointer;
+        display: inline-block;
+        font-family: ITCAvantGardeStd-Bk,Arial,sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        margin: 0 5px 10px 0;
+        overflow: visible;
+        padding: 12px 40px;
+        text-align: center;
+        text-transform: none;
+        touch-action: manipulation;
+        user-select: none;
+        -webkit-user-select: none;
+        vertical-align: middle;
+        white-space: nowrap;
+    }
+
+        .button-50:focus {
+            text-decoration: none;
+        }
+
+        .button-50:hover {
+            text-decoration: none;
+        }
+
+        .button-50:active {
+            box-shadow: rgba(0, 0, 0, .125) 0 3px 5px inset;
+            outline: 0;
+        }
+
+        .button-50:not([disabled]):active {
+            box-shadow: #fff 2px 2px 0 0, #000 2px 2px 0 1px;
+            transform: translate(2px, 2px);
+        }
+</style>
+<script>
+    let scollContainer = document.querySelector(".gallery");
+    let backBtn = document.getElementById("backbtn");
+    let nextBtn = document.getElementById("nextbtn");
+
+    scollContainer.addEventListener("wheel", (evt) => {
+        evt.preventDefault();
+        scollContainer.scrollLeft += evt.deltaY;
+        scollContainer.style.scrollBehavior = "auto";
+    });
+
+    nextBtn.addEventListener("click", () => {
+        scollContainer.scrollLeft += 700;
+        scollContainer.style.scrollBehavior = 'smooth';
+    });
+    backBtn.addEventListener("click", () => {
+        scollContainer.scrollLeft -= 700;
+        scollContainer.style.scrollBehavior = 'smooth';
+    });
+</script>
