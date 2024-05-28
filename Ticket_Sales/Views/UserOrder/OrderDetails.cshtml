@@ -1,10 +1,10 @@
-﻿@model IEnumerable<Ticket_Sales.Models.OrderDetail>
+﻿@model List<Ticket_Sales.Models.OrderDetail>
 
 @{
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>OrderDetails</h1>
+<h1>Order Detail</h1>
 
 
 <div class="container">
@@ -13,7 +13,6 @@
         <div class="col-md-10">
 
             <table class="table table-bordered table-hover" style="margin:30px; align-content:center">
-                <h1>Order story</h1>
                 <thead>
                     <tr>
                         <th>Event</th>
@@ -30,8 +29,8 @@
                             <td>@item.EventId</td>
                             <td>@item.Quantity</td>
                             <td>@item.Price</td>
-                            <td>@item.Order.Id</td>
-                            <td>@item.Type.Type_Name</td>
+                            <td>@item.OrderId</td>
+                            <td>@item.TypeName</td>
                         </tr>
                     }
                 </tbody>

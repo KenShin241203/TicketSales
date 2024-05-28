@@ -466,9 +466,10 @@ strong {
 .menu-thumb {
   position: relative;
   overflow: hidden;
+
 }
 
-.menu-info {
+. {
   padding: 20px 20px 30px 20px;
 }
 
@@ -687,11 +688,11 @@ strong {
 }
 
 .BgImage {
-  background-image: url('../images/alex-haney-CAhjZmVk5H4-unsplash.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  height: 500px;
+    background-image: url('../images/footer.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
 }
 
 
@@ -699,7 +700,6 @@ strong {
   FOOTER              
 -----------------------------------------*/
 .site-footer {
-  background-image: url('../images/daan-evers-tKN1WXrzQ3s-unsplash.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

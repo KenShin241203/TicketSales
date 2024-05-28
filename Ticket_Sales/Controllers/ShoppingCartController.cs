@@ -120,11 +120,12 @@ namespace Ticket_Sales.Controllers
                 await _dbContext.SaveChangesAsync();
                 foreach (var item in cart.Types)
                 {
-                    if(item.Quantity > 0)
+                    if(item.orderQuantity > 0)
                     {
                         var orderDetail = new OrderDetail
                         {
                             TypeId = item.Type_Id,
+                            TypeName = item.Type_Name,
                             Price = item.Price,
                             EventId = item.EventID,
                             OrderId = order.Id,

@@ -28,28 +28,27 @@
                     <span><img src="/Images/liveshow_1.png"></span>
                     <span><img src="/Images/liveshow_2.jpg"></span>
                     <span><img src="/Images/liveshow3.jpg"></span>
-                </div>
+                </div> 
             </div>
             <img src="Images/next.png" id="nextbtn">
         </div>
         <div class="container">
             <div class="row">
                 <h3 style="text-align:left">Âm nhạc</h3>
-                <a class="more-link" asp-area="" asp-controller="EventUser" asp-action="Music">Xem thêm &#8594</a>
+                <a class="more-link" asp-area="" asp-controller="EventUser" asp-action="Music" style="font-weight:700">Xem thêm &#8594</a>
                 @{
                     var count = 0;
                     @foreach(var item in Model.Where(x => x.CategoryID == 1))
                     {
                     
                         count ++;
-                        int max = 4;
-                        @if (count < max)
+                        @if (count < 4)
                         {
-                            
-                            <div class="col-lg-4 col-md-6 col-12">
+
+                            <div class="col-lg-4 col-md-6 col-12" style="padding: 12px">
                                 <div class="menu-thumb">
                                     <img src="@item.ImageUrl" style="width:467.2px; height:467.2px" class="img-fluid menu-image" alt="">
-
+                                    <p></p>
                                     <div class="menu-info d-flex flex-wrap align-items-center">
                                         <h4 class="mb-0">@item.Event_Name</h4>
                                         <a asp-controller="Home" asp-action="Detail" asp-route-id="@item.Event_ID"><button class="button-50 ms-4" role="button">Detail</button></a>
@@ -69,19 +68,18 @@
             <div class="row">
 
                 <h3 style="text-align:left">Thể thao</h3>
-                <a class="more-link" asp-area="" asp-controller="EventUser" asp-action="Sports">Xem thêm &#8594</a>
+                <a class="more-link" asp-area="" asp-controller="EventUser" asp-action="Sports" style="font-weight:700">Xem thêm &#8594</a>
                 @{
                     var count1 = 0;
                     @foreach (var item in Model.Where(x => x.CategoryID == 2))
                     {
                         count1++;
-                        int max = 4;
-                        @if(count1 < max)
+                        @if(count1 < 4)
                         {
-                            <div class="col-lg-4 col-md-6 col-12">
+                            <div class="col-lg-4 col-md-6 col-12" style="padding: 12px">
                                 <div class="menu-thumb">
                                     <img src="@item.ImageUrl" style="width:467.2px; height:467.2px" class="img-fluid menu-image" alt="">
-
+                                    <p></p>
                                     <div class="menu-info d-flex flex-wrap align-items-center">
                                         <h4 class="mb-0">@item.Event_Name</h4>
                                         <a asp-controller="Home" asp-action="Detail" asp-route-id="@item.Event_ID"><button class="button-50 ms-4" role="button">Detail</button></a>
@@ -100,19 +98,18 @@
             </div>
             <div class="row">
                 <h3 style="text-align:left">Nghệ thuật</h3>
-                <a class="more-link" asp-area="" asp-controller="EventUser" asp-action="Arts">Xem thêm &#8594</a>
+                <a class="more-link" asp-area="" asp-controller="EventUser" asp-action="Arts" style="font-weight:700">Xem thêm &#8594</a>
                 @{
                     var count2 = 0;
                     @foreach (var item in Model.Where(x => x.CategoryID == 3))
                     {
                         count2++;
-                        int max = 4;
-                        @if (count2 < max)
+                        @if (count2 < 4)
                         {
-                            <div class="col-lg-4 col-md-6 col-12">
+                            <div class="col-lg-4 col-md-6 col-12" style="padding: 12px">
                                 <div class="menu-thumb">
                                     <img src="@item.ImageUrl" style="width:467.2px; height:467.2px" class="img-fluid menu-image" alt="">
-
+                                    <p></p>
                                     <div class="menu-info d-flex flex-wrap align-items-center">
                                         <h4 class="mb-0">@item.Event_Name</h4>
                                         <a asp-controller="Home" asp-action="Detail" asp-route-id="@item.Event_ID"><button class="button-50 ms-4" role="button">Detail</button></a>

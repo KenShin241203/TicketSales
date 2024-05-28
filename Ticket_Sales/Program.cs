@@ -28,6 +28,7 @@ builder.Services.AddScoped<IOrderRepository, EFOrderRepository>();
 builder.Services.AddScoped<IOrderDetailRepository, EFOrderDetailRepository>();
 builder.Services.AddSingleton<IVnPayService, VnPayService>();
 
+builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
 {
     options.IdleTimeout = TimeSpan.FromMinutes(30);
@@ -35,7 +36,6 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
-builder.Services.AddDistributedMemoryCache();
 var app = builder.Build();
 
 

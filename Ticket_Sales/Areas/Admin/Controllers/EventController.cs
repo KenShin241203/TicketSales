@@ -23,12 +23,14 @@ namespace Ticket_Sales.Areas.Admin.Controllers
             _categoryRepository = categoryRepository;
             _eventRepository = eventRepository;
         }
-        public async Task<IActionResult> Index(string? LocationId, string? searchingString)
+        public async Task<IActionResult> Index(string? LocationId, int? CategoryId, string? searchingString)
         {
             LocationId = LocationId ?? null;
             var events = await _eventRepository.GetEventsAsync();
             var locations = await _locationRepository.GetLocationsAsync();
-            ViewBag.Locations = new SelectList(locations, "Location_ID", "City_Name", LocationId);
+            var categories = await _categoryRepository.GetCategoriesAsync();
+            ViewBag.Locations = new SelectList(locations, "Location_ID", "City_Name");
+            ViewBag.categories = new SelectList(categories, "Category_ID", "Category_Name");
             if (searchingString != null)
             {
                 var eventfound = events.Where(x => x.Event_Name.ToUpper().Contains(searchingString.ToUpper()));
@@ -38,20 +40,39 @@ namespace Ticket_Sales.Areas.Admin.Controllers
                     {
                         return View(eventfound);
                     }
+                    if (CategoryId != null)
+                    {
+                        var eventsCateLocate = events.Where(x => x.LocationID == LocationId).Where(z => z.CategoryID == CategoryId).Where(x => x.Event_Name.ToUpper().Contains(searchingString.ToUpper()));
+                        return View(eventsCateLocate);
+                    }
                     var locationfound = events.Where(x => x.LocationID == LocationId).Where(x => x.Event_Name.ToUpper().Contains(searchingString.ToUpper()));
                     return View(locationfound);
+                }
+                if(CategoryId != null)
+                {
+                    var eventsbyCate = events.Where(a => a.CategoryID == CategoryId).Where(x => x.Event_Name.ToUpper().Contains(searchingString.ToUpper()));
+                    return View(eventsbyCate);
                 }
                 return View(eventfound);
             }
             else if (LocationId != null)
             {
-
+                if (CategoryId != null)
+                {
+                    var eventsCate = events.Where(a => a.LocationID == LocationId).Where(b => b.CategoryID == CategoryId);
+                    return View(eventsCate);
+                }
                 if (LocationId == "TQ")
                 {
                     return View(events);
                 }
                 var locationfound = events.Where(x => x.LocationID == LocationId);
                 return View(locationfound);
+            }
+            else if (CategoryId != null)
+            {
+                var categoryfound = events.Where(c => c.CategoryID == CategoryId);
+                return View(categoryfound);
             }
             return View(events);
         }
@@ -112,8 +133,7 @@ namespace Ticket_Sales.Areas.Admin.Controllers
             return View(Event);
         }
         [HttpPost]
-
-        public async Task<IActionResult> Update(int id, Event Event, IFormFile imageUrl)
+        public async Task<IActionResult> Update(int id, Event Event, IFormFile? ImageUrl)
         {
             if (id != Event.Event_ID)
             {
@@ -122,14 +142,14 @@ namespace Ticket_Sales.Areas.Admin.Controllers
             if (ModelState.IsValid)
             {
                 var existingEvent = await _eventRepository.GetEventByIdAsync(id);
-                if (imageUrl == null)
+                if (ImageUrl == null)
                 {
                     Event.ImageUrl = existingEvent.ImageUrl;
                 }
                 else
                 {
                     // Lưu hình ảnh mới
-                    Event.ImageUrl = await SaveImage(imageUrl);
+                    Event.ImageUrl = await SaveImage(ImageUrl);
                 }
                 existingEvent.Event_Name = Event.Event_Name;
                 existingEvent.Date = Event.Date;

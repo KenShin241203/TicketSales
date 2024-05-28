@@ -91,6 +91,14 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
+            "X.PagedList": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
             "xunit.extensibility.core": {
               "target": "Package",
               "version": "[2.8.0, )"

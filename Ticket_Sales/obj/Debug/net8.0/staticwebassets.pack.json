@@ -5,12 +5,16 @@
       "PackagePath": "staticwebassets\\Ticket_Sales.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\Book100.png",
-      "PackagePath": "staticwebassets\\Images\\Book100.png"
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\61860cba92c1153a0e5a21190d7bea8b.jpg",
+      "PackagePath": "staticwebassets\\Images\\61860cba92c1153a0e5a21190d7bea8b.jpg"
     },
     {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\Book101.png",
-      "PackagePath": "staticwebassets\\Images\\Book101.png"
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\66457b8fa11f4.jpg",
+      "PackagePath": "staticwebassets\\Images\\66457b8fa11f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\96AFC5.jpg",
+      "PackagePath": "staticwebassets\\Images\\96AFC5.jpg"
     },
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\back.png",
@@ -19,18 +23,6 @@
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\bong_bau_duc.jpg",
       "PackagePath": "staticwebassets\\Images\\bong_bau_duc.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\book13.png",
-      "PackagePath": "staticwebassets\\Images\\book13.png"
-    },
-    {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\book15.png",
-      "PackagePath": "staticwebassets\\Images\\book15.png"
-    },
-    {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\book16.png",
-      "PackagePath": "staticwebassets\\Images\\book16.png"
     },
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\Images\\bp_tour.jpg",
@@ -625,10 +617,6 @@
       "PackagePath": "staticwebassets\\layoutuser\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\alex-haney-CAhjZmVk5H4-unsplash.jpg",
-      "PackagePath": "staticwebassets\\layoutuser\\images\\alex-haney-CAhjZmVk5H4-unsplash.jpg"
-    },
-    {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\author\\alexander-hipp-iEEBWgY_6lA-unsplash.jpg",
       "PackagePath": "staticwebassets\\layoutuser\\images\\author\\alexander-hipp-iEEBWgY_6lA-unsplash.jpg"
     },
@@ -649,14 +637,6 @@
       "PackagePath": "staticwebassets\\layoutuser\\images\\breakfast\\lucas-swennen-1W_MyJSRLuQ-unsplash.jpg"
     },
     {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\charles-deluvio-FdDkfYFHqe4-unsplash.jpg",
-      "PackagePath": "staticwebassets\\layoutuser\\images\\charles-deluvio-FdDkfYFHqe4-unsplash.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\daan-evers-tKN1WXrzQ3s-unsplash.jpg",
-      "PackagePath": "staticwebassets\\layoutuser\\images\\daan-evers-tKN1WXrzQ3s-unsplash.jpg"
-    },
-    {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\dinner\\farhad-ibrahimzade-ZipYER3NLhY-unsplash.jpg",
       "PackagePath": "staticwebassets\\layoutuser\\images\\dinner\\farhad-ibrahimzade-ZipYER3NLhY-unsplash.jpg"
     },
@@ -669,12 +649,12 @@
       "PackagePath": "staticwebassets\\layoutuser\\images\\dinner\\keriliwi-c3mFafsFz2w-unsplash.jpg"
     },
     {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\banner.jpg",
-      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\banner.jpg"
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\footer.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\footer.jpg"
     },
     {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\briana-tozour-V_Nkf1E-vYA-unsplash.jpg",
-      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\briana-tozour-V_Nkf1E-vYA-unsplash.jpg"
+      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\banner.jpg",
+      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\banner.jpg"
     },
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\calendar-icon.png",
@@ -687,18 +667,6 @@
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\icon_ticket.png",
       "PackagePath": "staticwebassets\\layoutuser\\images\\header\\icon_ticket.png"
-    },
-    {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\luisa-brimble-aFzg83dvnAI-unsplash.jpg",
-      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\luisa-brimble-aFzg83dvnAI-unsplash.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\priscilla-du-preez-W3SEyZODn8U-unsplash.jpg",
-      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\priscilla-du-preez-W3SEyZODn8U-unsplash.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\rod-long-I79Pgmhmy5M-unsplash.jpg",
-      "PackagePath": "staticwebassets\\layoutuser\\images\\header\\rod-long-I79Pgmhmy5M-unsplash.jpg"
     },
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\header\\ticket.png",
@@ -751,14 +719,6 @@
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\news\\stefan-johnson-xIFbDeGcy44-unsplash.jpg",
       "PackagePath": "staticwebassets\\layoutuser\\images\\news\\stefan-johnson-xIFbDeGcy44-unsplash.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\sincerely-media-HoEYgBL_Gcs-unsplash-mobile.jpg",
-      "PackagePath": "staticwebassets\\layoutuser\\images\\sincerely-media-HoEYgBL_Gcs-unsplash-mobile.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\sincerely-media-HoEYgBL_Gcs-unsplash.jpg",
-      "PackagePath": "staticwebassets\\layoutuser\\images\\sincerely-media-HoEYgBL_Gcs-unsplash.jpg"
     },
     {
       "Id": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\wwwroot\\layoutuser\\images\\slide\\ivan-torres-MQUqbmszGGM-unsplash.jpg",

@@ -28,16 +28,15 @@ namespace Ticket_Sales.Controllers
             var userOrders = await _orderRepository.GetOrderByUserId(userId); 
             return View(userOrders);
         }
-        [HttpPost]
-        public async Task<IActionResult> OrderDetails(int orderId)
+        
+        public IActionResult OrderDetails(int orderId)
         {
-            var order = await _orderRepository.GetOrderById(orderId);
-            var orderDetail = await _orderDetailRepository.GetOrderDetails(order.Id);
-            if(orderDetail == null)
+            var orderDetails = _dbContext.OrderDetail.Where(a => a.OrderId == orderId).ToList();
+            if(orderDetails == null)
             {
                 return NotFound();
             }
-            return View(orderDetail);
+            return View(orderDetails);
         }
     }
 }

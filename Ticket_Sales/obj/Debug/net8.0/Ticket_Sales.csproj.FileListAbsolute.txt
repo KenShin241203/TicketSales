@@ -588,3 +588,5 @@ C:\Users\Tri Vinhx\source\repos\TicketSales\Ticket_Sales\obj\Debug\net8.0\refint
 C:\Users\Tri Vinhx\source\repos\TicketSales\Ticket_Sales\obj\Debug\net8.0\Ticket_Sales.pdb
 C:\Users\Tri Vinhx\source\repos\TicketSales\Ticket_Sales\obj\Debug\net8.0\Ticket_Sales.genruntimeconfig.cache
 C:\Users\Tri Vinhx\source\repos\TicketSales\Ticket_Sales\obj\Debug\net8.0\ref\Ticket_Sales.dll
+C:\Users\Tri Vinhx\source\repos\TicketSales\Ticket_Sales\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\Tri Vinhx\source\repos\TicketSales\Ticket_Sales\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll

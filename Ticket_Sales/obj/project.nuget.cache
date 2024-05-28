@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YGIbjQomGR5UKsq4eTcCiB8cUtkPj+ilQdp37v11iZOqlh1MkOvn0NWdYrKuEuTHYmK4GTG8IEAGrNMMW3R73Q==",
+  "dgSpecHash": "LxGsO6hF2aiu7rgAFlgGIbrGXMXC9LV0R6MACy1Ei5wvm1sdU30ktOcihx903IHtEWVdIavnH4LkVi+Nz1jb+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tri Vinhx\\source\\repos\\TicketSales\\Ticket_Sales\\Ticket_Sales.csproj",
   "expectedPackageFiles": [
@@ -182,6 +182,8 @@
     "C:\\Users\\Tri Vinhx\\.nuget\\packages\\system.threading.tasks.dataflow\\7.0.0\\system.threading.tasks.dataflow.7.0.0.nupkg.sha512",
     "C:\\Users\\Tri Vinhx\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Tri Vinhx\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tri Vinhx\\.nuget\\packages\\x.pagedlist\\9.1.2\\x.pagedlist.9.1.2.nupkg.sha512",
+    "C:\\Users\\Tri Vinhx\\.nuget\\packages\\x.pagedlist.mvc.core\\9.1.2\\x.pagedlist.mvc.core.9.1.2.nupkg.sha512",
     "C:\\Users\\Tri Vinhx\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
     "C:\\Users\\Tri Vinhx\\.nuget\\packages\\xunit.extensibility.core\\2.8.0\\xunit.extensibility.core.2.8.0.nupkg.sha512",
     "C:\\Users\\Tri Vinhx\\.nuget\\packages\\xunit.extensibility.execution\\2.8.0\\xunit.extensibility.execution.2.8.0.nupkg.sha512"
